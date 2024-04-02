@@ -17,6 +17,8 @@
   "author": "Reetesh Yadav",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.19.2"
+    "ejs": "^3.1.9",
+    "express": "^4.19.2",
+    "express-fileupload": "^1.5.0"
   }
 }
